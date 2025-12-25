@@ -1,4 +1,3 @@
-# financialanalysis
 Simulated Finance Analysis
 
 This personal project serves to combine the usage of Python and SQL to perform tasks that are perhaps possible in Python but are more easy to write and read in SQL. This also includes a randomly generated finance usage, with different ranges of values dependent on the genre being spent on
